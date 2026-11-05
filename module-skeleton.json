@@ -1,0 +1,15 @@
+{
+  "repository": "module-liberu-platform-orchestration-7f7db377-filament",
+  "capabilityKey": "liberusoftware/liberu-platform-orchestration",
+  "presentation": "laravel-filament",
+  "package": "liberusoftware/liberu-platform-orchestration-7f7db377-filament",
+  "foundation": "module-boilerplate-filament",
+  "foundationCommit": "9282e55622b1abd4db48da891480cd9cac46c158",
+  "canonicalPlan": "projects/automation/nextjs/liberu-platform-orchestration.md",
+  "presentationPlan": "projects/automation/filament/liberu-platform-orchestration.md",
+  "identityReviewRequired": true,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "automation"
+  ]
+}
